@@ -1,0 +1,299 @@
+---
+title: "Dinámicas político-económicas en el aumento de la deforestación 🌴"
+author: "Fernanda Tejada Oyague"
+institute: |
+  Pontificia Universidad Católica del Perú | Miembro del Grupo de Investigación sobre Estado y Sociedad (GIES - PUCP)  |
+  Asistente de investigación en PULSO PUCP
+date: "2024-11-27"
+format:
+  revealjs:
+    theme: dark
+    transition: fade
+    slide-number: true
+    embed-resources: true
+    logo: "images/PUCP_logo.png"
+    css: custom.css
+    self-contained: true  # Asegúrate de que esto esté en true para generar un único archivo HTML que contenga todos los recursos.
+    revealjs-version: "4.0"
+---
+
+## Razones por el que el tema es relevante 🎯
+
+Este estudio es relevante porque analiza cómo las dinámicas entre actores nacionales y subnacionales convergen con los intereses económicos internacionales de grandes empresas, facilitando el aumento de la deforestación en la región a través de la expansión agroindustrial.
+
+## Razones por el que tema es relevante 🎯
+
+Al identificar los mecanismos que permitieron este proceso, este análisis pretende esclarecer el papel del Estado y los actores económicos en la pérdida de los bosques en esta región amazónica.
+
+
+## Revisión de literatura 📚 {background-gradient="linear-gradient(to bottom, #b6d7a8, #6faa76)"}
+
+Las investigaciones sobre deforestación se pueden organizar en torno a cómo interactúan los actores nacionales o subnacionales con economías, ya sean legales o no. Además, de un tercer grupo en donde tanto actores nacionales como subnacionales trabajan conjuntamente, permitiendo la deforestación.
+
+## Dinámicas Nacionales 🇵🇪 {data-background-color="#003366"}
+
+::::: columns
+::: {.column width="40%" style="color: white;"}
+-   **Arts et al., 2024**\
+-   Dauvergne, 1993\
+-   McSweeney et al., 2014\
+-   Souza et al., 2022\
+-   **Blume et al., 2022**\
+-   Majambu et al., 2024\
+-   Burgess et al., 2011\
+-   To & Mahanty, 2019\
+:::
+
+::: {.column width="60%" style="color: white;"}
+-   **Bolton, 2020**\
+-   Andersson & Gibson, 2006\
+-   Bhattarai & Hamming, 2001\
+-   Fearnside, 2008\
+-   **Leblois et al., 2017**\
+-   Barbier et al., 2005\
+:::
+:::::
+
+:::
+
+::::
+
+## Dinámicas subnacionales 🏞️ {data-background-color="#4CAF50"}
+
+::::: columns
+::: {.column width="15%" style="color: white;"}
+-   **Katovich & Moffette, 2024**\
+-   Harding et al., 2021\
+-   Fearnside, 2008\
+-   Bennett et al., 2018\
+:::
+
+::: {.column width="45%" style="color: white;"}
+-   Van Uhm et al., 2023\
+-   Balboni et al., 2023\
+-   McCarthy & Tacconi, 2011\
+:::
+:::::
+
+
+## Interacción entre actores y subnacionales con intereses de la gran empresa 🌍 {background-color="#e3f2fd" background-size="cover"}
+
+::: columns
+:::{.column width="100%" style= "color: black;"}
+- Loris y Schneider, 2020\
+- Balboni et al., 2023\
+- Klopp, 2012\
+:::
+
+:::
+## Vacío de la literatura 📭 {background-color="#ffffff"}
+
+::::: columns
+:::: {.column width="100%"}
+<div>
+
+A pesar de estos avances, queda un vacío importante en la literatura respecto a cómo las dinámicas locales y nacionales se interceptan en contextos específicos como el caso peruano, donde la complicidad entre actores estatales y privados parece incentivar la deforestación. 
+Esto subraya la necesidad de mayores estudios que analicen cómo es que hay una sinergia entre actores políticos, como los nacionales y subnacionales, con presiones económicas por medio de grandes empresas que permitirían un aumento en la deforestación.
+
+
+</div>
+::::
+:::::
+
+
+
+## Pregunta de investigación ❓ {background-color="#74c2c3"}
+
+**¿Cuáles son los factores político-económicos que explican el aumento de la deforestación en Nueva Requena, Ucayali entre los años 2010-2016?**
+
+## Caso de estudio 📊 {background-color="#fff9c4"}
+
+::::: columns
+:::: {.column width="60%"}
+::: {style="font-size: 0.85em;"}
+La deforestación en Nueva Requena, por lo tanto, no fue un fenómeno aislado, sino el resultado de la interacción entre políticas nacionales laxas, autoridades locales corruptas y empresas internacionales interesadas en la expansión agroindustrial. La deforestación no solo trajo consigo la pérdida de biodiversidad y la degradación de los ecosistemas, sino que también socavó los derechos territoriales de las comunidades indígenas y campesinas, quienes vieron cómo sus tierras eran invadidas y destruidas en nombre del desarrollo económico.
+:::
+::::
+:::::
+
+## Hipótesis 🔍
+
+::::::: {style="font-size: 0.6em;"}
+::: {.fragment .blur}
+### Mecanismo Principal
+
+El mecanismo principal que explica la variación de la deforestación (variable dependiente) en Nueva Requena es la interacción coordinada entre las tres variables independientes mencionadas.
+:::
+
+::: {.fragment .blur}
+### V1: Impulso del Estado
+
+El impulso del Estado central hacia la agroindustria (V1) sentó las bases para la atracción de inversiones internacionales, priorizando el desarrollo económico por encima de la conservación.
+:::
+
+::: {.fragment .blur}
+### V2: Políticas Subnacionales
+
+La promoción de políticas subnacionales de desarrollo económico (V2) otorgó incentivos adicionales para la conversión de tierras y la infraestructura.
+:::
+
+::: {.fragment .blur}
+### V3: Empresas Privadas
+
+La intervención de empresas privadas (V3) catalizó la deforestación al aprovechar las condiciones facilitadas por el Estado y la debilidad de los controles locales.
+:::
+:::::::
+
+## Marco teórico 📚 {data-background-color="#F5DEB3"}
+
+::::: {style="font-size: 0.8em;"}
+::: {.fragment .blur}
+### Hurrel (1991)
+
+-   Enfoque de gobernanza multinivel
+:::
+
+::: {.fragment .blur}
+### Arts et al. (2024)
+
+-   Enfoque del régimen fragmentado
+:::
+:::::
+
+## Hurrel (1991) 🌿 {data-background-color="#2F4F4F"}
+
+:::::: {style="font-size: 0.8em; color: white;"}
+::: {.fragment .blur}
+### Enfoque de gobernanza multinivel
+
+El enfoque de gobernanza multinivel de Hurrell permite analizar cómo las decisiones sobre la Amazonía no se toman de forma aislada.
+:::
+
+::: {.fragment .blur}
+-   Las acciones de actores internacionales, nacionales y subnacionales se encuentran interrelacionadas, y la falta de una visión integrada contribuye a los problemas de gestión de los recursos forestales.
+:::
+
+::: {.fragment .blur}
+-   En Nueva Requena, el Estado peruano, a través de sus políticas de desarrollo, y los gobiernos locales, mediante la flexibilización de regulaciones, han facilitado la expansión de actividades agroindustriales que impactan negativamente el medio ambiente.
+:::
+::::::
+
+## Arts et al. (2024) 🌅 {data-background-color="#FF8C00"}
+
+:::::: {style="font-size: 0.7em; color: white;"}
+::: {.fragment .blur}
+### Régimen fragmentado
+
+El régimen fragmentado permite entender cómo la falta de coherencia y la dispersión en los regímenes internacionales y nacionales de conservación permiten que actores poderosos, como grandes empresas y actores políticos nacionales, modifiquen las políticas según sus intereses particulares.
+:::
+
+::: {.fragment .blur}
+-   En Nueva Requena, esto se traduce en la existencia de marcos normativos débiles o contradictorios que facilitan la expansión de la frontera agrícola y la explotación de recursos naturales.
+:::
+
+::: {.fragment .blur}
+-   La débil coordinación entre los distintos niveles de gobernanza se manifiesta, por ejemplo, en la descentralización que otorgó a los actores subnacionales mayor autonomía para gestionar los recursos naturales, permitiendo que adapten las normativas según intereses económicos privados y, en muchos casos, ignorando las normas nacionales de conservación.
+:::
+::::::
+
+## Metodología 🔍 {data-background-color="#87CEEB"}
+
+:::::: {style="font-size: 0.8em; color: black;"}
+::: {.fragment .blur}
+La investigación empleará un enfoque cualitativo, con un complemento cuantitativo, para obtener una comprensión integral del fenómeno.
+:::
+
+::: {.fragment .blur}
+### Análisis cualitativo
+
+-   Análisis documental
+-   Entrevistas semiestructuradas
+:::
+
+::: {.fragment .blur}
+### Análisis cuantitativo (descriptivo)
+
+-   Registros satelitales
+-   \% de zona deforestada
+:::
+::::::
+
+## Análisis Cualitativo 📑 {data-background-color="#98FB98"}
+
+::::: {style="font-size: 0.7em; color: black;"}
+::: {.fragment .blur}
+### Análisis Documental
+
+-   Revisión de informes institucionales:
+    -   Proética, EIA, Procuraduría Pública Especializada en Delitos Ambientales
+-   Reportajes periodísticos:
+    -   CONVOCA, Mongabay, InSight Crime
+:::
+
+::: {.fragment .blur}
+### Entrevistas Semiestructuradas
+
+-   Representantes de Proética
+-   Especialistas de EIA (Environmental Investigation Agency)
+-   Procuraduría Pública Especializada en Delitos Ambientales
+-   Periodistas de investigación
+-   Líderes comunitarios
+-   Secretaria técnica del Ministerio del Medio Ambiente
+:::
+:::::
+
+
+---
+format: revealjs
+---
+
+## Análisis Cuantitativo (Descriptivo) 📊
+
+RAISG (Red Amazónica de Información Socioambiental Georreferenciada)
+
+<iframe src="https://www3.socioambiental.org/geo/RAISGMapaOnline/" width="100%" height="500px" style="border: none;">
+
+</iframe>
+
+## Análisis Cuantitativo (Descriptivo) 📊
+
+SAMI (Sub Módulo Monitoreo Satelital de los Impactos al Patrimonio Forestal) del SERFOR
+
+[Enlace al sitio SAMI](https://sniffs.serfor.gob.pe/monitoreo/sami/tala.html)
+
+![Vista previa del SAMI](SAMI_serfor.png){width="180%"}
+
+
+## Análisis Cuantitativo (Descriptivo) 📊
+
+Global Forest Resources Assessment (FRA) de la FAO
+
+[Enlace al sitio FRA de la FAO](https://fra-data.fao.org/assessments/fra/2020)
+
+![Vista previa del FRA](FAO.png){width="180%"}
+
+
+## 🚨 Principal Desafío {data-background-color="#0072b2"}
+
+Metodología no usada antes en tesis o proyectos en estos temas en la academia peruana.
+
+:::: {style="margin-top: 30px;"}
+::: {.fragment .fade-in}
+[🟡 🟡 🟡 🟡 🟡]{style="font-size:xx-large; color:#FFDB58;"}
+:::
+::::
+
+::: {style="margin-top: 40px;"}
+<video controls width="600">
+
+<source src="ruta3.mp4" type="video/mp4">
+
+Tu navegador no soporta el video. </video>
+
+</div>
+:::
+
+
+
+
+
